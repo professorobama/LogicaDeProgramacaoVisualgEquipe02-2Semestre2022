@@ -1,2 +1,2 @@
-# l-gicadeprograma-aoVisuag
+# LogicaDeProgramacaoVisuag
 Exercícios de Lógica de Programação com a ferramenta VisualG
